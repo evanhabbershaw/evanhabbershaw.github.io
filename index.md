@@ -17,4 +17,4 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 
 ### CV
 
-My CV can be found [here](https://github.com/evanhabbershaw/evanhabbershaw.github.io/files/CV/vitae.pdf)
+My CV can be found [here](https://github.com/evanhabbershaw/evanhabbershaw.github.io/blob/files/CV/vitae.pdf)
