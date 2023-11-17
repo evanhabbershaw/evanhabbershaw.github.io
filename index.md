@@ -15,6 +15,6 @@ If you want to use this space to write your biography here, edit the `index.md` 
 The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
 
 
-### Also, check out:
+### CV
 
-- [Curriculum Vitae](https://github.com/jitinnair1/autocv) - I need to add it.
+My CV can be found [here](https://github.com/evanhabbershaw/evanhabbershaw.github.io/files/CV/vitae.pdf)
