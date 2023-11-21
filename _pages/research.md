@@ -11,7 +11,7 @@ My primary research interests lie in Computational and Applied Mathematics with 
 
 ### Current Projects
 
-I am currently funded through a DOE grant to develop theory and numerical methods for Bhatnagar-Gross-Krook (BGK) kinetic models, with my collaborators Dr. Cory Hauck (ORNL) and Dr. Steven Wise (UTK). In particular, I have developed implicit-explicit (IMEX) methods for the standard BGK model, and I have been studying a multi-species BGK model, with temperature dependent collision frequencies.
+I am currently funded through a DOE grant to develop theory and numerical methods for Bhatnagar-Gross-Krook (BGK) kinetic models, with my advisors Dr. Cory Hauck (ORNL) and Dr. Steven Wise (UTK). In particular, I have developed implicit-explicit (IMEX) methods for the standard BGK model, and I have been studying a multi-species BGK model, with temperature dependent collision frequencies.
 
 For the moment system of equations, I have proved existence and uniqueness of solutions, and established bounds on the asymptotic relaxation of the solution to constant steady state values. (Article submitted to SIAM Journal on Applied Mathematics; see the arXiv.org preprint [here](https://arxiv.org/abs/2310.12885).) 
 
