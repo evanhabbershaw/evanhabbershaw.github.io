@@ -7,6 +7,8 @@ published: true
 
 ## CV
 
+You can find my complete CV [here](https://github.com/evanhabbershaw/evanhabbershaw.github.io/blob/master/files/CV/vitae.pdf).
+
 ### Positions
 
 #### The University of Tennessee, Mathematics Department 
@@ -18,10 +20,9 @@ published: true
 
 ### Education
 
-#### PhD, Mathematics, May 2024, University of Tennessee
+#### PhD, Mathematics, August 2024, University of Tennessee
 
 #### MS, Mathematics, 2018, California State University, Northridge
 
 #### BS, Mathematics, 2015, California State University, Northridge
 
-You can find my complete cv [here](https://github.com/evanhabbershaw/evanhabbershaw.github.io/blob/master/files/CV/vitae.pdf).
