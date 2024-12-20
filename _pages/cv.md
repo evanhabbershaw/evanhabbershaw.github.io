@@ -13,14 +13,14 @@ You can find my complete CV [here](https://github.com/evanhabbershaw/evanhabbers
 
 #### The University of Tennessee, Mathematics Department 
 - **Graduate Research Associate**, 2020--2021, 2022--present
-- **Graduate Teaching Associate**, 2019--2020
+- **Graduate Teaching Associate**, 2019--2020, Fall 2021
 
 #### California State University, Northridge, Mathematics Department 
 - **Gradutate Teaching Associate**, 2015--2018
 
 ### Education
 
-#### PhD, Mathematics, August 2024, University of Tennessee
+#### PhD, Mathematics, May 2025, University of Tennessee, Knoxville
 
 #### MS, Mathematics, 2018, California State University, Northridge
 
