@@ -15,13 +15,13 @@ I am currently funded through a DOE grant to develop theory and numerical method
 
 #### Multi-Species BGK Modeling and Numerical Methods
 
-For the (space homogeneous) multi-species BGK (M-BGK) moment system of equations, I have proved existence and uniqueness of solutions, and established bounds on the asymptotic relaxation of the solution to constant steady state values. (Article accepted for publication at SIAM Journal on Applied Mathematics (SIAP); see the [arXiv.org preprint here](https://arxiv.org/abs/2310.12885).)
+For the (space homogeneous) multi-species BGK (M-BGK) moment system of equations, I have proved existence and uniqueness of solutions, and established bounds on the asymptotic relaxation of the solution to constant steady state values. (SIAM Journal on Applied Mathematics (SIAP) [DOI Link](https://doi.org/10.1137/23M1596314); [arXiv.org preprint here](https://arxiv.org/abs/2310.12885).)
 
 On the numerical side, I have developed an IMEX method that computes the implicit update of the moment equations using a nonlinear iterative solver to compute the implicit step for the collision operator. (Article accepted for publication at SIAM Journal on Numerical Analysis (SINUM); see the [arXiv.org preprint here](https://arxiv.org/abs/2404.11775).)
 
 #### Multi-Species Fokker--Planck Model
 
-More recently, I have been working on a Fokker--Planck type model for charged particle plasma dynamics. The model allows for freedom in the choice of parameters, which facilitates matching the momentum and temperature relaxation rates of the multi-species Boltzmann Equation with Coulomb potentials. The conservation, entropy dissipation, and equilibrium properties (H-Theorem) of the model have been established in our recently submitted paper. (Article submitted to Journal of Statistical Physics; see the [arXiv.org preprint here](https://arxiv.org/abs/2404.11775).)
+More recently, I have been working on a Fokker--Planck type model for charged particle plasma dynamics. The model allows for added freedom in the choice of parameters, which facilitates matching the momentum and temperature relaxation rates of the multi-species Boltzmann Equation with Coulomb potentials. The conservation, entropy dissipation, and equilibrium properties (H-Theorem) of the model have been established in our submitted paper. (Article in review at Journal of Statistical Physics; see the [arXiv.org preprint here](https://arxiv.org/abs/2404.11775).)
 
 
 ### Recent Collaborators
